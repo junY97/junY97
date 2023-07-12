@@ -1,5 +1,5 @@
 ### Hi there 👋
-https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>
+I'm backend developer
 <!--
 **junY97/junY97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
