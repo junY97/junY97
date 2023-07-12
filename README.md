@@ -1,6 +1,6 @@
 ### Hi there 👋
-I'm backend developer
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+I'm <span style="bold">backend developer</span>
+<img src="https://img.shields.io/badge/Java-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 <!--
 **junY97/junY97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
