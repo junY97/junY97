@@ -1,7 +1,7 @@
 ### Hi there 👋
 Thanks for looking around my github!!<br>
 
-I'm <span style="font-weight: bold;" >backend developer </span>
+I'm ### backend developer 
 
 I started development 2 years ago.<br>
 I learned Javascript, Node.js, Vue.js, React.js, Java, Spring.<br><br>
