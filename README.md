@@ -1,12 +1,12 @@
 ### Hi there 👋
 Thanks for looking around my github!!<br>
 
-I'm ### backend developer 
+### I'm  backend developer 
 
 I started development 2 years ago.<br>
 I learned Javascript, Node.js, Vue.js, React.js, Java, Spring.<br><br>
 
-I'm learning Java, Spring thesedays.
+## I'm learning Java, Spring thesedays.
 
 
 <!--
