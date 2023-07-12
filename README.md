@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm <span style="font-weight:bold">backend developer</span>
+I'm <span style="font-weight: bold;">backend developer</span>
 <!--
 **junY97/junY97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
