@@ -1,5 +1,14 @@
 ### Hi there 👋
-I'm <span style="font-weight: bold;">backend developer</span>
+Thanks for looking around my github!!<br>
+
+I'm <span style="font-weight: bold;" >backend developer </span>
+
+I started development 2 years ago.<br>
+I learned Javascript, Node.js, Vue.js, React.js, Java, Spring.<br><br>
+
+I'm learning Java, Spring thesedays.
+
+
 <!--
 **junY97/junY97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
